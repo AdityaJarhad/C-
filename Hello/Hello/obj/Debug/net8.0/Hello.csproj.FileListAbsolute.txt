@@ -1,0 +1,14 @@
+D:\PG-DAC\dotNET\Hello\Hello\bin\Debug\net8.0\Hello.exe
+D:\PG-DAC\dotNET\Hello\Hello\bin\Debug\net8.0\Hello.deps.json
+D:\PG-DAC\dotNET\Hello\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+D:\PG-DAC\dotNET\Hello\Hello\bin\Debug\net8.0\Hello.dll
+D:\PG-DAC\dotNET\Hello\Hello\bin\Debug\net8.0\Hello.pdb
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.dll
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\refint\Hello.dll
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.pdb
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+D:\PG-DAC\dotNET\Hello\Hello\obj\Debug\net8.0\ref\Hello.dll
