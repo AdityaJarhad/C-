@@ -1,0 +1,16 @@
+D:\PG-DAC\dotNET\ECommerce\Order\bin\Debug\net8.0\Order.deps.json
+D:\PG-DAC\dotNET\ECommerce\Order\bin\Debug\net8.0\Order.dll
+D:\PG-DAC\dotNET\ECommerce\Order\bin\Debug\net8.0\Order.pdb
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.AssemblyInfoInputs.cache
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.AssemblyInfo.cs
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.sourcelink.json
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.dll
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\refint\Order.dll
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.pdb
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\ref\Order.dll
+D:\PG-DAC\dotNET\ECommerce\Order\bin\Debug\net8.0\Catalog.dll
+D:\PG-DAC\dotNET\ECommerce\Order\bin\Debug\net8.0\Catalog.pdb
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.csproj.AssemblyReference.cache
+D:\PG-DAC\dotNET\ECommerce\Order\obj\Debug\net8.0\Order.csproj.Up2Date

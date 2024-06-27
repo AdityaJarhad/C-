@@ -1,0 +1,12 @@
+D:\PG-DAC\dotNET\ECommerce\Catalog\bin\Debug\net8.0\Catalog.deps.json
+D:\PG-DAC\dotNET\ECommerce\Catalog\bin\Debug\net8.0\Catalog.dll
+D:\PG-DAC\dotNET\ECommerce\Catalog\bin\Debug\net8.0\Catalog.pdb
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.sourcelink.json
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.dll
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\Catalog.pdb
+D:\PG-DAC\dotNET\ECommerce\Catalog\obj\Debug\net8.0\ref\Catalog.dll

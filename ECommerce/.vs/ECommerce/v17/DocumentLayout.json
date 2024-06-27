@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PG-DAC\\dotNET\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74773FCC-93BF-4F67-8557-FCB11A3CA4B2}|Order\\Order.csproj|d:\\pg-dac\\dotnet\\ecommerce\\order\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74773FCC-93BF-4F67-8557-FCB11A3CA4B2}|Order\\Order.csproj|solutionrelative:order\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B2CE06-46CF-48DB-B3FE-2A20A11EF083}|StoreApp\\StoreApp.csproj|d:\\pg-dac\\dotnet\\ecommerce\\storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B2CE06-46CF-48DB-B3FE-2A20A11EF083}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71E9A69-5DE7-44AC-8A01-D46B0F2B0263}|Catalog\\Catalog.csproj|d:\\pg-dac\\dotnet\\ecommerce\\catalog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71E9A69-5DE7-44AC-8A01-D46B0F2B0263}|Catalog\\Catalog.csproj|solutionrelative:catalog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\StoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Program.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\StoreApp\\Program.cs",
+              "RelativeToolTip": "StoreApp\\Program.cs",
+              "ViewState": "AQIAABEAAAAgZmZmZmYkwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:28:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\Order\\Class1.cs",
+              "RelativeDocumentMoniker": "Order\\Class1.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\Order\\Class1.cs",
+              "RelativeToolTip": "Order\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:26:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\Catalog\\Class1.cs",
+              "RelativeDocumentMoniker": "Catalog\\Class1.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\Catalog\\Class1.cs",
+              "RelativeToolTip": "Catalog\\Class1.cs",
+              "ViewState": "AQIAAAIAAAAQAAAAAAA0wAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:23:55.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
