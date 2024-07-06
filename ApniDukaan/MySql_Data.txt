@@ -1,0 +1,15 @@
+CREATE TABLE User (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    contactNo VARCHAR(15)
+);
+
+INSERT INTO User (name, email, password, contactNo) VALUES
+('Alice Johnson', 'alice.johnson@example.com', 'password123', '123-456-7890'),
+('Bob Smith', 'bob.smith@example.com', 'password456', '234-567-8901'),
+('Charlie Brown', 'charlie.brown@example.com', 'password789', '345-678-9012'),
+('David Wilson', 'david.wilson@example.com', 'password012', '456-789-0123'),
+('Eva Green', 'eva.green@example.com', 'password345', '567-890-1234'),
+('Frank White', 'frank.white@example.com', 'password678', '678-901-2345');

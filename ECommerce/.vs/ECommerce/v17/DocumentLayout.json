@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PG-DAC\\dotNET\\ECommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{768D2FB9-0FFF-4A6B-A521-C9FA462C3A9C}|DBConnection\\DBConnection.csproj|d:\\pg-dac\\dotnet\\ecommerce\\dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D2FB9-0FFF-4A6B-A521-C9FA462C3A9C}|DBConnection\\DBConnection.csproj|solutionrelative:dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74773FCC-93BF-4F67-8557-FCB11A3CA4B2}|Order\\Order.csproj|d:\\pg-dac\\dotnet\\ecommerce\\order\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74773FCC-93BF-4F67-8557-FCB11A3CA4B2}|Order\\Order.csproj|solutionrelative:order\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\DBConnection\\Program.cs",
+              "RelativeDocumentMoniker": "DBConnection\\Program.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\DBConnection\\Program.cs",
+              "RelativeToolTip": "DBConnection\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:43:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\StoreApp\\Program.cs",
               "RelativeDocumentMoniker": "StoreApp\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\Order\\Class1.cs",
               "RelativeDocumentMoniker": "Order\\Class1.cs",
@@ -56,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ECommerce\\Catalog\\Class1.cs",
               "RelativeDocumentMoniker": "Catalog\\Class1.cs",
               "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\Catalog\\Class1.cs",
               "RelativeToolTip": "Catalog\\Class1.cs",
-              "ViewState": "AQIAAAIAAAAQAAAAAAA0wAYAAAAOAAAA",
+              "ViewState": "AQIAAAMAAACAAAAAAAAIwAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T09:23:55.988Z",
               "EditorCaption": ""

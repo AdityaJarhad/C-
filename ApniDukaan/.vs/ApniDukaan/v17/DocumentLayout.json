@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PG-DAC\\dotNET\\ApniDukaan\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepoManager.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Repositories\\UserRepoManager.cs",
+              "RelativeDocumentMoniker": "ApniDukaan\\Repositories\\UserRepoManager.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Repositories\\UserRepoManager.cs",
+              "RelativeToolTip": "ApniDukaan\\Repositories\\UserRepoManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:23:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApniDukaan\\Models\\User.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Models\\User.cs",
+              "RelativeToolTip": "ApniDukaan\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:26:47.235Z"
             }
           ]
         }

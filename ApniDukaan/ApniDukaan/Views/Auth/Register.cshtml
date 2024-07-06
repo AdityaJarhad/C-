@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form action="/auth/login" method="post">
+    <table>
+        <tr>
+            <td>First Name : </td>
+            <td><input type="text" name="fname" placeholder="firstName" /></td>
+        </tr>
+        <tr>
+            <td>Last Name : </td>
+            <td><input type="text" name="lname" placeholder="lastName" /></td>
+        </tr>
+        <tr>
+            <td>Email : </td>
+            <td><input type="text" name="email" placeholder="email" /></td>
+        </tr>
+        <tr>
+            <td>Password : </td>
+            <td><input type="text" name="password" placeholder="password" /></td>
+        </tr>
+        <tr>
+            <input type="submit" name="btn" value="Submit" />
+        </tr>
+    </table>    
+</form>
