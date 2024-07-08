@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\PG-DAC\\dotNET\\ApniDukaan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|d:\\pg-dac\\dotnet\\apnidukaan\\apnidukaan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824AB35A-FDE4-42D8-BFFF-76D461ADAC41}|ApniDukaan\\ApniDukaan.csproj|solutionrelative:apnidukaan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ApniDukaan\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ApniDukaan\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T10:03:28.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ApniDukaan\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ApniDukaan\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T10:03:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ApniDukaan\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ApniDukaan\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T10:02:58.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApniDukaan\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApniDukaan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:02:40.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserRepoManager.cs",
               "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Repositories\\UserRepoManager.cs",
               "RelativeDocumentMoniker": "ApniDukaan\\Repositories\\UserRepoManager.cs",
               "ToolTip": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Repositories\\UserRepoManager.cs",
               "RelativeToolTip": "ApniDukaan\\Repositories\\UserRepoManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAApAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwH8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:23:49.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T10:23:49.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\Models\\User.cs",
               "RelativeDocumentMoniker": "ApniDukaan\\Models\\User.cs",
@@ -47,7 +110,8 @@
               "RelativeToolTip": "ApniDukaan\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T19:26:47.235Z"
+              "WhenOpened": "2024-07-02T19:26:47.235Z",
+              "EditorCaption": ""
             }
           ]
         }

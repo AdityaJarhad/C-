@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "DBConnection\\Program.cs",
               "ToolTip": "D:\\PG-DAC\\dotNET\\ECommerce\\DBConnection\\Program.cs",
               "RelativeToolTip": "DBConnection\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T10:43:11.499Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "StoreApp\\Program.cs",
               "ViewState": "AQIAABEAAAAgZmZmZmYkwCgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T09:28:28.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T09:28:28.095Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Order\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T09:26:22.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T09:26:22.27Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Catalog\\Class1.cs",
               "ViewState": "AQIAAAMAAACAAAAAAAAIwAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T09:23:55.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T09:23:55.988Z"
             }
           ]
         }
